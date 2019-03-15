@@ -1,0 +1,90 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - IQKeyboardManager (6.2.0)
+  - JMButton (0.6)
+  - JXCategoryView (1.2.6)
+  - Masonry (1.1.0)
+  - MJRefresh (3.1.15.7)
+  - MLMenu (1.1.0)
+  - SDCycleScrollView (1.75):
+    - SDWebImage (>= 4.0.0)
+  - SDWebImage (4.4.5):
+    - SDWebImage/Core (= 4.4.5)
+  - SDWebImage/Core (4.4.5)
+  - SVProgressHUD (2.2.5)
+  - TZImagePickerController (3.1.9)
+  - YYCache (1.0.4)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+  - YYModel (1.0.4)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - AFNetworking
+  - IQKeyboardManager
+  - JMButton (~> 0.5)
+  - JXCategoryView
+  - Masonry
+  - MJRefresh
+  - MLMenu
+  - SDCycleScrollView
+  - SVProgressHUD
+  - TZImagePickerController
+  - YYCache
+  - YYCategories
+  - YYModel
+  - YYText
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - IQKeyboardManager
+    - JMButton
+    - JXCategoryView
+    - Masonry
+    - MJRefresh
+    - MLMenu
+    - SDCycleScrollView
+    - SDWebImage
+    - SVProgressHUD
+    - TZImagePickerController
+    - YYCache
+    - YYCategories
+    - YYModel
+    - YYText
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
+  JMButton: 04a4e98d096f9f504df2908fade68699b822dd5e
+  JXCategoryView: e88c22b5f3d037e2b093c2e2d48a3cc81ba64ead
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  MLMenu: 334184582e10313adf18a7b2c0a2cdd27a71e589
+  SDCycleScrollView: 884b88f0266dd4708a0e1934975c69cb971707b1
+  SDWebImage: ecc03494e973b93b80213649d32175f8d2d17d4d
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TZImagePickerController: c3f7c505d23281e21e98df6dbeae372946caa28f
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 2041a704d4cd04cb70a3e7d05cd111ec3a4f100f
+
+COCOAPODS: 1.6.0
